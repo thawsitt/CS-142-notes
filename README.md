@@ -2,6 +2,13 @@
 
 > CS 142 (Spring 2017) - Mendel Rosenblum
 
+## Links
+
+- [Class website](http://web.stanford.edu/class/cs142/index.html)
+- [Lecture slides](http://web.stanford.edu/class/cs142/lectures.html)
+- [Projects](http://web.stanford.edu/class/cs142/projects.html)
+- [Office Hours](http://web.stanford.edu/class/cs142/staff.html)
+
 ## Contents
 
 - [week 1](#week-1) - HTML and CSS.
