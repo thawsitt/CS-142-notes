@@ -50,5 +50,13 @@
     | `<br>`       | Single line break |
     
   * See all the HTML tags [here](https://www.w3schools.com/tags/).
+  
+  * Tags can have tags inside. (Nesting supported). For example: `<p><i>Example Text</i></p>`
+  
+  * Some tags have attributes (name-value pairs separated by "="). For example,
+     ```html
+     <img src="smiley.gif" alt="Smiley face" height="42" width="42">
+     ```
+  
 
 
